@@ -69,12 +69,6 @@ ML-driven insurance engine that trains a GradientBoostingClassifier on live weat
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUDHEER-KANDURU&theme=tokyo-night" width="100%"/>
-</p>
-
 ## Contribution Snake
 
 <p align="center">
