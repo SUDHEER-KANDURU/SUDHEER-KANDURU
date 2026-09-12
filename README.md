@@ -72,5 +72,11 @@ ML-driven insurance engine that trains a GradientBoostingClassifier on live weat
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SUDHEER-KANDURU&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUDHEER-KANDURU&theme=tokyo-night" width="100%"/>
+</p>
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SUDHEER-KANDURU/SUDHEER-KANDURU/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
